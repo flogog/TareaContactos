@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TareaContactos</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="fecha_nac">Fecha Nacimiento</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion_contacto">Descripcion Contacto</string>
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="etiqueta_page2">Confirmar Datos</string>
+    <string name="tel">Tel</string>
+    <string name="desc">Descripcion</string>
+    <string name="boton_editar">Editar Datos</string>
+    <string name="fechaNac">fechaNac</string>
+    <string name="nombre">nombre</string>
+
+</resources>
